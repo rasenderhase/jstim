@@ -4,7 +4,7 @@
   "description": "JavaScript TIM implementation",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "grunt"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,17 @@
   "bugs": {
     "url": "https://github.com/rasenderhase/jstim/issues"
   },
-  "homepage": "https://github.com/rasenderhase/jstim#readme"
+  "homepage": "https://github.com/rasenderhase/jstim#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-mocha-test": "^0.13.3",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "grunt-cli": "^1.3.1"
+  }
 }
