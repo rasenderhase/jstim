@@ -25,10 +25,10 @@
   "homepage": "https://github.com/rasenderhase/jstim#readme",
   "devDependencies": {
     "chai": "^4.1.2",
-    "grunt": "^0.4.5",
-    "grunt-contrib-jshint": "^0.10.0",
-    "grunt-contrib-nodeunit": "~0.4.1",
-    "grunt-contrib-uglify": "~0.5.0",
+    "grunt": "^1.0.3",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-nodeunit": "~2.0.0",
+    "grunt-contrib-uglify": "~3.4.0",
     "grunt-mocha-test": "^0.13.3",
     "mocha": "^5.2.0"
   },
