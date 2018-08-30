@@ -1,0 +1,26 @@
+{
+  "name": "jstim",
+  "version": "1.0.0",
+  "description": "JavaScript TIM implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasenderhase/jstim.git"
+  },
+  "keywords": [
+    "TIM",
+    "Logistik-Header",
+    "Telegram",
+    "UDP",
+    "Connection"
+  ],
+  "author": "Andreas Knees <andreas.knees@nikem.de> (http://nikem.de)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rasenderhase/jstim/issues"
+  },
+  "homepage": "https://github.com/rasenderhase/jstim#readme"
+}
